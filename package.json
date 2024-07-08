@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "private": true,
   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "concurrently": "6.4.0",
     "react-scripts": "4.0.3"
   },
