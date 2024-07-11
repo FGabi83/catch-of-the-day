@@ -1,2 +1,4 @@
 node_modules
 /src/base.js
+# Local Netlify folder
+.netlify
